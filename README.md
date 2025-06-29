@@ -42,5 +42,5 @@ My goal is to contribute meaningfully to the cybersecurity mission of any organi
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/cornelius-mantle-bba335147](https://www.linkedin.com/in/cornelius-mantle-bba335147/)
+- LinkedIn: [linkedin.com/in/cornelius-mantle](https://www.linkedin.com/in/cornelius-mantle)
 - More Projects Coming Soon
